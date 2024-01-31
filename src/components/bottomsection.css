@@ -1,0 +1,7 @@
+#bottomMainContainer {
+    display: flex;
+    
+    border: 1px solid black;
+    height: 230px;
+    margin: 10px;
+}
